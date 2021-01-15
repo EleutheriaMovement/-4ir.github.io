@@ -175,9 +175,7 @@ figure {
   margin: 0 0 1rem; }
 
 img {
-  vertical-align: middle;
-  border-style: none;
-  margin-left: 30px;	
+ margin: 5px;	
 }
 
 svg:not(:root) {
