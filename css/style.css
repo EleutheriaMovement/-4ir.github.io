@@ -6153,6 +6153,7 @@ button.bg-dark:focus {
 
 .mb-3,
 .my-3 {
+  text-align: center;	
   margin-bottom: 1rem !important; }
 
 .ml-3,
@@ -6172,6 +6173,7 @@ button.bg-dark:focus {
 
 .mb-4,
 .my-4 {
+  text-align: center;
   margin-bottom: 1.5rem !important; }
 
 .ml-4,
