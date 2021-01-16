@@ -7894,7 +7894,8 @@ h1, h2, h3, h4, h5,
     .course {
       margin-bottom: 30px; } }
   .course .img {
-	  margin-left: 70px;
+	  margin-left: 85px;
+	  margin-top: 10px;
     display: block;
     height: 150px;
 	width: 150px}
