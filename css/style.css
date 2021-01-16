@@ -53,14 +53,14 @@ html {
 
 article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
-.courseimg {
+.course .courseimg {
     margin-left: 80px;
     margin-top: 10px;
     display: block;
     height: 150px;
     width: 150px}
 body {
-  margin-left: 0px;	
+  margin: 0px;	
   font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 1rem;
   font-weight: 400;
