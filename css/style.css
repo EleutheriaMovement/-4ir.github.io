@@ -2020,6 +2020,7 @@ fieldset:disabled a.btn {
   pointer-events: none; }
 
 .btn-primary {
+  margin-left: 85px;
   color: #212529;
   background-color: #78d5ef;
   border-color: #78d5ef; }
