@@ -7898,7 +7898,7 @@ h1, h2, h3, h4, h5,
   @media (min-width: 768px) {
     .course {
       margin-bottom: 30px; } }
-  .course .img {
+  .course .courseimg {
     display: block;
     height: 150px;
 	width: 150px}
