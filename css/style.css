@@ -54,7 +54,7 @@ html {
 article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 .img {
-    margin-left: 50px;
+    margin-left: 80px;
     margin-top: 10px;
     display: block;
     height: 150px;
@@ -180,8 +180,8 @@ figure {
   margin: 0 0 1rem; }
 
 img {
- margin: 5px;	
-}
+  vertical-align: middle;
+  border-style: none; }
 
 svg:not(:root) {
   overflow: hidden; }
